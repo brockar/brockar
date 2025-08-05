@@ -26,8 +26,4 @@
     <img src = "https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt = "Obsidian" />
     <img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt = "Linux" />
 
----
 
-[brockar](https://github.com/brockar/)
-
-Last Edited on: 02/12/2024 format.
