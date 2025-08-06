@@ -16,7 +16,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
-          template: "readme.md.tpl"
+          template: "readmemd.tpl"
           writeTo: "readme.md"
 
       - uses: stefanzweifel/git-auto-commit-action@v4
