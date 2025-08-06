@@ -1,11 +1,10 @@
-<div>
 
-<h2> About me </h2>
+## About me 
 
 - 🎓 Currently studying **Software Engineering**
 - 🤓 I'm also learning **Rust**
 
-<h2>  Skills  </h2>
+## Skills  
   
 - <h3> programming languages </h3>
   <img src = "https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=red" alt = "Rust" />
