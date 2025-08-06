@@ -1,8 +1,10 @@
 
+
 ## About me 
 
 - 🎓 Currently studying **Software Engineering**
 - 🤓 I'm also learning **Rust**
+- ⌨️ I love **keyboards**
 
 ## Skills  
   
