@@ -1,14 +1,11 @@
-
-<p align = center ><!-- Optional banner goes here--> </p>
-
 <div>
 
-<h2> // About me </h2>
+<h2> About me </h2>
 
 - 🎓 Currently studying **Software Engineering**
 - 🤓 I'm also learning **Rust**
 
-<h2>  // Skills  </h2>
+<h2>  Skills  </h2>
   
 - <h3> programming languages </h3>
   <img src = "https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=red" alt = "Rust" />
@@ -38,4 +35,9 @@
 #### ⭐ Recent Stars
 {{range recentStars 3}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
+{{- end}}
+
+#### 📜 My recent blog posts
+{{range rss "https://blog.mguz.xyz/index.xml" 3}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
