@@ -27,6 +27,11 @@
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
+#### 📜 My recent blog posts
+{{range rss "https://blog.mguz.xyz/index.xml" 5}}
+- [{{.Title}}]({{.URL}})
+{{- end}}
+
 #### 🌱 My latest projects
 {{range recentRepos 3}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
@@ -37,7 +42,4 @@
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
-#### 📜 My recent blog posts
-{{range rss "https://blog.mguz.xyz/index.xml" 3}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
+
