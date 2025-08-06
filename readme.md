@@ -3,8 +3,6 @@
 
 <div>
 
-<img align="right" width="30%" style="max-width: 300px; min-width: 200px;" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg"/>
-
 <h2> // About me </h2>
 
 - 🎓 Currently studying **Software Engineering**
@@ -37,7 +35,7 @@
 
 - [brockar/traefik](https://github.com/brockar/traefik) - my way to use traefik &#43; geoblock &#43; crowdsec
 - [brockar/blog](https://github.com/brockar/blog) - my personal blog
-- [brockar/ig2tg](https://github.com/brockar/ig2tg) - 
+- [brockar/ig2tg](https://github.com/brockar/ig2tg) - IG2TG is a Python package and CLI tool that automatically downloads Instagram stories from specified users and sends them to your Telegram chat.
 
 #### ⭐ Recent Stars
 
