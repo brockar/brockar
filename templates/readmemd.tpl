@@ -28,7 +28,7 @@
 
 #### 📜 My recent blog posts
 {{range rss "https://rss.mguz.xyz/rss" 5}}
-- [{{.Title}}]({{.URL}})
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 #### 🌱 My latest projects
