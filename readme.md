@@ -1,14 +1,10 @@
 
-<p align = center > </p>
-
-<div>
-
-<h2> // About me </h2>
+## About me 
 
 - 🎓 Currently studying **Software Engineering**
 - 🤓 I'm also learning **Rust**
 
-<h2>  // Skills  </h2>
+## Skills  
   
 - <h3> programming languages </h3>
   <img src = "https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=red" alt = "Rust" />
@@ -27,9 +23,17 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [brockar/blog](https://github.com/brockar/blog) - my personal blog (1 day ago)
 - [brockar/traefik](https://github.com/brockar/traefik) - my way to use traefik &#43; geoblock &#43; crowdsec (1 week ago)
 - [HackTestes/NVML-GPU-Control](https://github.com/HackTestes/NVML-GPU-Control) - A small program that uses the NVIDIA Management Library to control the GPU independent of OS or display server. This project is not provided or endorsed by NVIDIA (4 weeks ago)
-- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland configuration files or dotfiles - This repo is used as main repo for all my Distro-Hyprland Install Scripts. See the readme (4 weeks ago)
+
+#### 📜 My recent blog posts
+
+- [Secure server setup: VPN and Reverse Proxy Config](https://blog.mguz.xyz/p/secure-server-setup-vpn-and-reverse-proxy-config/)
+- [Install winget on Windows LTSC](https://blog.mguz.xyz/p/install-winget-on-windows-ltsc/)
+- [AppImage on Linux](https://blog.mguz.xyz/p/appimage-on-linux/)
+- [Dotfiles: Stow](https://blog.mguz.xyz/p/dotfiles-stow/)
+- [Free Obsidian Sync](https://blog.mguz.xyz/p/free-obsidian-sync/)
 
 #### 🌱 My latest projects
 
@@ -39,6 +43,8 @@
 
 #### ⭐ Recent Stars
 
+- [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) - 🛡 Allows users to more easily use Octicons and their own icons and logos on shields.io badges (today)
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.  (2 weeks ago)
 - [karjonas/thinkfan-tui](https://github.com/karjonas/thinkfan-tui) - A terminal-based Linux application for fan control and temperature monitoring on ThinkPad laptops. (3 weeks ago)
-- [danielmiessler/Telos](https://github.com/danielmiessler/Telos) - Telos is an open-sourced framework for creating Deep Context about things that matter to humans. (4 weeks ago)
+
+
