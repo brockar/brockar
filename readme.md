@@ -29,11 +29,11 @@
 
 #### 📜 My recent blog posts
 
-- [Secure server setup: VPN and Reverse Proxy Config](https://blog.mguz.xyz/p/secure-server-setup-vpn-and-reverse-proxy-config/)
-- [Install winget on Windows LTSC](https://blog.mguz.xyz/p/install-winget-on-windows-ltsc/)
-- [AppImage on Linux](https://blog.mguz.xyz/p/appimage-on-linux/)
-- [Dotfiles: Stow](https://blog.mguz.xyz/p/dotfiles-stow/)
-- [Free Obsidian Sync](https://blog.mguz.xyz/p/free-obsidian-sync/)
+- [Secure server setup: VPN and Reverse Proxy Config](https://blog.mguz.xyz/p/secure-server-setup-vpn-and-reverse-proxy-config/) (1 month ago)
+- [Install winget on Windows LTSC](https://blog.mguz.xyz/p/install-winget-on-windows-ltsc/) (2 months ago)
+- [AppImage on Linux](https://blog.mguz.xyz/p/appimage-on-linux/) (3 months ago)
+- [Dotfiles: Stow](https://blog.mguz.xyz/p/dotfiles-stow/) (3 months ago)
+- [Free Obsidian Sync](https://blog.mguz.xyz/p/free-obsidian-sync/) (3 months ago)
 
 #### 🌱 My latest projects
 
