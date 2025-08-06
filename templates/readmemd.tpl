@@ -27,7 +27,7 @@
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://blog.mguz.xyz/index.xml" 5}}
+{{range rss "https://rss.mguz.xyz/rss" 5}}
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
