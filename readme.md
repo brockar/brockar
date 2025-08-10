@@ -25,28 +25,28 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [brockar/blog](https://github.com/brockar/blog) - my personal blog (1 day ago)
+- [brockar/medars](https://github.com/brockar/medars) - medars is a simple and fast command-line application written in RuSt that allows users to inspect and remove MEtaDAta from image files. (2 days ago)
+- [brockar/blog](https://github.com/brockar/blog) - my personal blog (4 days ago)
 - [brockar/traefik](https://github.com/brockar/traefik) - my way to use traefik &#43; geoblock &#43; crowdsec (1 week ago)
-- [HackTestes/NVML-GPU-Control](https://github.com/HackTestes/NVML-GPU-Control) - A small program that uses the NVIDIA Management Library to control the GPU independent of OS or display server. This project is not provided or endorsed by NVIDIA (4 weeks ago)
 
 #### 📜 My recent blog posts
 
 - [Secure server setup: VPN and Reverse Proxy Config](https://blog.mguz.xyz/p/secure-server-setup-vpn-and-reverse-proxy-config/) (1 month ago)
-- [Install winget on Windows LTSC](https://blog.mguz.xyz/p/install-winget-on-windows-ltsc/) (2 months ago)
+- [Install winget on Windows LTSC](https://blog.mguz.xyz/p/install-winget-on-windows-ltsc/) (3 months ago)
 - [AppImage on Linux](https://blog.mguz.xyz/p/appimage-on-linux/) (3 months ago)
 - [Dotfiles: Stow](https://blog.mguz.xyz/p/dotfiles-stow/) (3 months ago)
 - [Free Obsidian Sync](https://blog.mguz.xyz/p/free-obsidian-sync/) (3 months ago)
 
 #### 🌱 My latest projects
 
+- [brockar/medars](https://github.com/brockar/medars) - medars is a simple and fast command-line application written in RuSt that allows users to inspect and remove MEtaDAta from image files.
 - [brockar/traefik](https://github.com/brockar/traefik) - my way to use traefik &#43; geoblock &#43; crowdsec
 - [brockar/blog](https://github.com/brockar/blog) - my personal blog
-- [brockar/ig2tg](https://github.com/brockar/ig2tg) - IG2TG is a Python package and CLI tool that automatically downloads Instagram stories from specified users and sends them to your Telegram chat.
 
 #### ⭐ Recent Stars
 
-- [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) - 🛡 Allows users to more easily use Octicons and their own icons and logos on shields.io badges (today)
-- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.  (2 weeks ago)
-- [karjonas/thinkfan-tui](https://github.com/karjonas/thinkfan-tui) - A terminal-based Linux application for fan control and temperature monitoring on ThinkPad laptops. (3 weeks ago)
+- [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) - 🛡 Allows users to more easily use Octicons and their own icons and logos on shields.io badges (4 days ago)
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.  (3 weeks ago)
+- [karjonas/thinkfan-tui](https://github.com/karjonas/thinkfan-tui) - A terminal-based Linux application for fan control and temperature monitoring on ThinkPad laptops. (4 weeks ago)
 
 
