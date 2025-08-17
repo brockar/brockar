@@ -25,9 +25,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [brockar/medars](https://github.com/brockar/medars) - medars is a simple and fast command-line application written in RuSt that allows users to inspect and remove MEtaDAta from image files. (2 days ago)
-- [brockar/blog](https://github.com/brockar/blog) - my personal blog (4 days ago)
-- [brockar/traefik](https://github.com/brockar/traefik) - my way to use traefik &#43; geoblock &#43; crowdsec (1 week ago)
+- [brockar/blog](https://github.com/brockar/blog) - my personal blog (3 days ago)
+- [brockar/qr-code-py](https://github.com/brockar/qr-code-py) - A simple QR code creator (5 days ago)
+- [brockar/medars](https://github.com/brockar/medars) - medars is a simple and fast command-line application written in RuSt that allows users to inspect and remove MEtaDAta from image files. (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -39,14 +39,14 @@
 
 #### 🌱 My latest projects
 
+- [brockar/qr-code-py](https://github.com/brockar/qr-code-py) - A simple QR code creator
 - [brockar/medars](https://github.com/brockar/medars) - medars is a simple and fast command-line application written in RuSt that allows users to inspect and remove MEtaDAta from image files.
 - [brockar/traefik](https://github.com/brockar/traefik) - my way to use traefik &#43; geoblock &#43; crowdsec
-- [brockar/blog](https://github.com/brockar/blog) - my personal blog
 
 #### ⭐ Recent Stars
 
-- [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) - 🛡 Allows users to more easily use Octicons and their own icons and logos on shields.io badges (4 days ago)
-- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.  (3 weeks ago)
-- [karjonas/thinkfan-tui](https://github.com/karjonas/thinkfan-tui) - A terminal-based Linux application for fan control and temperature monitoring on ThinkPad laptops. (4 weeks ago)
+- [ThioJoe/Windows-Sandbox-Tools](https://github.com/ThioJoe/Windows-Sandbox-Tools) - Various useful scripts for use within Windows Sandbox (3 days ago)
+- [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian (1 week ago)
+- [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) - 🛡 Allows users to more easily use Octicons and their own icons and logos on shields.io badges (1 week ago)
 
 
