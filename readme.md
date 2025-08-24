@@ -25,9 +25,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [brockar/blog](https://github.com/brockar/blog) - my personal blog (3 days ago)
-- [brockar/qr-code-py](https://github.com/brockar/qr-code-py) - A simple QR code creator (5 days ago)
-- [brockar/medars](https://github.com/brockar/medars) - medars is a simple and fast command-line application written in RuSt that allows users to inspect and remove MEtaDAta from image files. (1 week ago)
+- [brockar/blog](https://github.com/brockar/blog) - my personal blog (1 week ago)
+- [brockar/qr-code-py](https://github.com/brockar/qr-code-py) - A simple QR code creator (1 week ago)
+- [brockar/medars](https://github.com/brockar/medars) - medars is a simple and fast command-line application written in RuSt that allows users to inspect and remove MEtaDAta from image files. (2 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -45,8 +45,8 @@
 
 #### ⭐ Recent Stars
 
-- [ThioJoe/Windows-Sandbox-Tools](https://github.com/ThioJoe/Windows-Sandbox-Tools) - Various useful scripts for use within Windows Sandbox (3 days ago)
-- [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian (1 week ago)
-- [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) - 🛡 Allows users to more easily use Octicons and their own icons and logos on shields.io badges (1 week ago)
+- [itsjunetime/tdf](https://github.com/itsjunetime/tdf) - A tui-based PDF viewer (3 days ago)
+- [dexpota/kitty-themes](https://github.com/dexpota/kitty-themes) - A collection of themes for kitty terminal 😻 (1 week ago)
+- [ThioJoe/Windows-Sandbox-Tools](https://github.com/ThioJoe/Windows-Sandbox-Tools) - Various useful scripts for use within Windows Sandbox (1 week ago)
 
 
