@@ -25,17 +25,17 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [brockar/blog](https://github.com/brockar/blog) - my personal blog (2 weeks ago)
-- [brockar/qr-code-py](https://github.com/brockar/qr-code-py) - A simple QR code creator (2 weeks ago)
-- [brockar/medars](https://github.com/brockar/medars) - medars is a simple and fast command-line application written in RuSt that allows users to inspect and remove MEtaDAta from image files. (3 weeks ago)
+- [brockar/blog](https://github.com/brockar/blog) - my personal blog (1 day ago)
+- [brockar/qr-code-py](https://github.com/brockar/qr-code-py) - A simple QR code creator (3 weeks ago)
+- [brockar/medars](https://github.com/brockar/medars) - medars is a simple and fast command-line application written in RuSt that allows users to inspect and remove MEtaDAta from image files. (4 weeks ago)
 
 #### 📜 My recent blog posts
 
-- [Secure server setup: VPN and Reverse Proxy Config](https://blog.mguz.xyz/p/secure-server-setup-vpn-and-reverse-proxy-config/) (1 month ago)
-- [Install winget on Windows LTSC](https://blog.mguz.xyz/p/install-winget-on-windows-ltsc/) (3 months ago)
-- [AppImage on Linux](https://blog.mguz.xyz/p/appimage-on-linux/) (3 months ago)
-- [Dotfiles: Stow](https://blog.mguz.xyz/p/dotfiles-stow/) (3 months ago)
-- [Free Obsidian Sync](https://blog.mguz.xyz/p/free-obsidian-sync/) (3 months ago)
+- [Hibernation on Linux](https://blog.mguz.xyz/p/hibernation-on-linux/) (2 days ago)
+- [Secure server setup: VPN and Reverse Proxy Config](https://blog.mguz.xyz/p/secure-server-setup-vpn-and-reverse-proxy-config/) (2 months ago)
+- [Install winget on Windows LTSC](https://blog.mguz.xyz/p/install-winget-on-windows-ltsc/) (4 months ago)
+- [AppImage on Linux](https://blog.mguz.xyz/p/appimage-on-linux/) (4 months ago)
+- [Dotfiles: Stow](https://blog.mguz.xyz/p/dotfiles-stow/) (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -45,8 +45,8 @@
 
 #### ⭐ Recent Stars
 
-- [itsjunetime/tdf](https://github.com/itsjunetime/tdf) - A tui-based PDF viewer (1 week ago)
-- [dexpota/kitty-themes](https://github.com/dexpota/kitty-themes) - A collection of themes for kitty terminal 😻 (2 weeks ago)
-- [ThioJoe/Windows-Sandbox-Tools](https://github.com/ThioJoe/Windows-Sandbox-Tools) - Various useful scripts for use within Windows Sandbox (2 weeks ago)
+- [mikeleppane/envx](https://github.com/mikeleppane/envx) - A powerful and secure environment variable manager for developers, featuring an intuitive Terminal User Interface (TUI) and comprehensive command-line interface. (1 day ago)
+- [itsjunetime/tdf](https://github.com/itsjunetime/tdf) - A tui-based PDF viewer (2 weeks ago)
+- [dexpota/kitty-themes](https://github.com/dexpota/kitty-themes) - A collection of themes for kitty terminal 😻 (3 weeks ago)
 
 
