@@ -25,16 +25,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [brockar/traefik](https://github.com/brockar/traefik) - my way to use traefik &#43; geoblock &#43; crowdsec (5 days ago)
-- [brockar/blog](https://github.com/brockar/blog) - my personal blog (1 week ago)
-- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland configuration files or dotfiles - This repo is used as main repo for all my Distro-Hyprland Install Scripts. See the readme (3 weeks ago)
+- [JaKooLit/Debian-Hyprland](https://github.com/JaKooLit/Debian-Hyprland) - For automated installation of Hyprland on Debian 13 Trixie (Testing) and Debian SiD (Unstable) (2 days ago)
+- [brockar/traefik](https://github.com/brockar/traefik) - my way to use traefik &#43; geoblock &#43; crowdsec (1 week ago)
+- [brockar/blog](https://github.com/brockar/blog) - my personal blog (2 weeks ago)
 
 #### 📜 My recent blog posts
 
-- [Using Your Phone as a Webcam on Linux](https://blog.mguz.xyz/p/using-your-phone-as-a-webcam-on-linux/) (1 week ago)
+- [Using Your Phone as a Webcam on Linux](https://blog.mguz.xyz/p/using-your-phone-as-a-webcam-on-linux/) (2 weeks ago)
 - [Hibernation on Linux](https://blog.mguz.xyz/p/hibernation-on-linux/) (1 month ago)
 - [Secure server setup: VPN and Reverse Proxy Config](https://blog.mguz.xyz/p/secure-server-setup-vpn-and-reverse-proxy-config/) (3 months ago)
-- [Install winget on Windows LTSC](https://blog.mguz.xyz/p/install-winget-on-windows-ltsc/) (4 months ago)
+- [Install winget on Windows LTSC](https://blog.mguz.xyz/p/install-winget-on-windows-ltsc/) (5 months ago)
 - [AppImage on Linux](https://blog.mguz.xyz/p/appimage-on-linux/) (5 months ago)
 
 #### 🌱 My latest projects
@@ -45,8 +45,8 @@
 
 #### ⭐ Recent Stars
 
-- [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger (1 day ago)
-- [b310-digital/excalidraw](https://github.com/b310-digital/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (1 week ago)
-- [hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko] (1 week ago)
+- [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger (1 week ago)
+- [b310-digital/excalidraw](https://github.com/b310-digital/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (2 weeks ago)
+- [hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko] (2 weeks ago)
 
 
