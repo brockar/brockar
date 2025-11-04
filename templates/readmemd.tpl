@@ -3,7 +3,7 @@
 ## About me 
 
 - 🎓 Currently studying **Software Engineering**
-- 🤓 I'm also learning **Python** and **Rust**
+- 🤓 I'm also learning **Python**
 - ⌨️ I love **keyboards** and **3d printers**
 
 ## Skills  
