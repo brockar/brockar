@@ -25,17 +25,17 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [brockar/medars](https://github.com/brockar/medars) - medars is a simple and fast command-line application written in RuSt that allows users to inspect and remove MEtaDAta from image files. (6 days ago)
+- [brockar/blog](https://github.com/brockar/blog) - my personal blog (1 day ago)
+- [brockar/medars](https://github.com/brockar/medars) - medars is a simple and fast command-line application written in RuSt that allows users to inspect and remove MEtaDAta from image files. (1 week ago)
 - [brockar/traefik](https://github.com/brockar/traefik) - my way to use traefik &#43; geoblock &#43; crowdsec (1 week ago)
-- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland configuration files or dotfiles - This repo is used as main repo for all my Distro-Hyprland Install Scripts. See the readme (2 weeks ago)
 
 #### 📜 My recent blog posts
 
-- [Using Your Phone as a Webcam on Linux](https://blog.mguz.xyz/p/using-your-phone-as-a-webcam-on-linux/) (1 month ago)
-- [Hibernation on Linux](https://blog.mguz.xyz/p/hibernation-on-linux/) (2 months ago)
-- [Secure server setup: VPN and Reverse Proxy Config](https://blog.mguz.xyz/p/secure-server-setup-vpn-and-reverse-proxy-config/) (4 months ago)
-- [Install winget on Windows LTSC](https://blog.mguz.xyz/p/install-winget-on-windows-ltsc/) (5 months ago)
-- [AppImage on Linux](https://blog.mguz.xyz/p/appimage-on-linux/) (6 months ago)
+- [Using Your Phone as a Webcam on Linux](https://blog.mguz.dev/p/using-your-phone-as-a-webcam-on-linux/) (1 month ago)
+- [Hibernation on Linux](https://blog.mguz.dev/p/hibernation-on-linux/) (2 months ago)
+- [Secure server setup: VPN and Reverse Proxy Config](https://blog.mguz.dev/p/secure-server-setup-vpn-and-reverse-proxy-config/) (4 months ago)
+- [Install winget on Windows LTSC](https://blog.mguz.dev/p/install-winget-on-windows-ltsc/) (5 months ago)
+- [AppImage on Linux](https://blog.mguz.dev/p/appimage-on-linux/) (6 months ago)
 
 #### 🌱 My latest projects
 
