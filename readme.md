@@ -25,9 +25,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [brockar/blog](https://github.com/brockar/blog) - my personal blog (1 day ago)
-- [brockar/medars](https://github.com/brockar/medars) - medars is a simple and fast command-line application written in RuSt that allows users to inspect and remove MEtaDAta from image files. (1 week ago)
-- [brockar/traefik](https://github.com/brockar/traefik) - my way to use traefik &#43; geoblock &#43; crowdsec (2 weeks ago)
+- [brockar/medars](https://github.com/brockar/medars) - medars is a simple and fast command-line application written in RuSt that allows users to inspect and remove MEtaDAta from image files. (3 days ago)
+- [brockar/traefik](https://github.com/brockar/traefik) - my way to use traefik &#43; geoblock &#43; crowdsec (3 days ago)
+- [brockar/blog](https://github.com/brockar/blog) - my personal blog (4 days ago)
 
 #### 📜 My recent blog posts
 
@@ -45,8 +45,8 @@
 
 #### ⭐ Recent Stars
 
-- [mouredev/Hello-Python](https://github.com/mouredev/Hello-Python) - Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA... (4 weeks ago)
-- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days, follow your own pace.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw (4 weeks ago)
-- [b310-digital/excalidraw](https://github.com/b310-digital/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (1 month ago)
+- [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server. (1 day ago)
+- [mouredev/Hello-Python](https://github.com/mouredev/Hello-Python) - Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA... (1 month ago)
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days, follow your own pace.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw (1 month ago)
 
 
