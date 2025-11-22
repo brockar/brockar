@@ -25,9 +25,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [brockar/blog](https://github.com/brockar/blog) - my personal blog (1 day ago)
 - [brockar/medars](https://github.com/brockar/medars) - medars is a simple and fast command-line application written in RuSt that allows users to inspect and remove MEtaDAta from image files. (1 week ago)
 - [brockar/traefik](https://github.com/brockar/traefik) - my way to use traefik &#43; geoblock &#43; crowdsec (1 week ago)
-- [brockar/blog](https://github.com/brockar/blog) - my personal blog (1 week ago)
 
 #### 📜 My recent blog posts
 
