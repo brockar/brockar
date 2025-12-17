@@ -25,9 +25,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [brockar/ml-converter](https://github.com/brockar/ml-converter) - Python web app that converts text-formatted numbers in Excel files to numeric values, built with Flask and Pandas. (2 days ago)
 - [brockar/blog](https://github.com/brockar/blog) - my personal blog (1 week ago)
 - [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland configuration files or dotfiles - This repo is used as main repo for all my Distro-Hyprland Install Scripts. See the readme (1 week ago)
-- [brockar/traefik](https://github.com/brockar/traefik) - my way to use traefik &#43; geoblock &#43; crowdsec (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [nettee/gemini-cli-proxy](https://github.com/nettee/gemini-cli-proxy) - Wrap Gemini CLI as an OpenAI-compatible API service, allowing you to enjoy the free Gemini 2.5 Pro model through API! (3 days ago)
+- [nettee/gemini-cli-proxy](https://github.com/nettee/gemini-cli-proxy) - Wrap Gemini CLI as an OpenAI-compatible API service, allowing you to enjoy the free Gemini 2.5 Pro model through API! (6 days ago)
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server. (1 month ago)
 - [mouredev/Hello-Python](https://github.com/mouredev/Hello-Python) - Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA... (2 months ago)
 
