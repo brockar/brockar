@@ -25,9 +25,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland configuration files or dotfiles - This repo is used as main repo for all my Distro-Hyprland Install Scripts. See the readme (5 days ago)
+- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland configuration files or dotfiles - This repo is used as main repo for all my Distro-Hyprland Install Scripts. See the readme (6 days ago)
 - [brockar/ml-converter](https://github.com/brockar/ml-converter) - Python web app that converts text-formatted numbers in Excel files to numeric values, built with Flask and Pandas. (2 weeks ago)
-- [brockar/blog](https://github.com/brockar/blog) - my personal blog (3 weeks ago)
+- [brockar/blog](https://github.com/brockar/blog) - my personal blog (4 weeks ago)
 
 #### 📜 My recent blog posts
 
