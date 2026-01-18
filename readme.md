@@ -25,8 +25,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [brockar/ml-converter](https://github.com/brockar/ml-converter) - Python web app that converts text-formatted numbers in Excel files to numeric values, built with Flask and Pandas. (4 days ago)
-- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland configuration files or dotfiles - This repo is used as main repo for all my Distro-Hyprland Install Scripts. See the readme (4 days ago)
+- [brockar/ml-converter](https://github.com/brockar/ml-converter) - Python web app that converts text-formatted numbers in Excel files to numeric values, built with Flask and Pandas. (5 days ago)
+- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland configuration files or dotfiles - This repo is used as main repo for all my Distro-Hyprland Install Scripts. See the readme (5 days ago)
 - [brockar/blog](https://github.com/brockar/blog) - my personal blog (1 month ago)
 
 #### 📜 My recent blog posts
@@ -45,8 +45,8 @@
 
 #### ⭐ Recent Stars
 
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (3 days ago)
-- [darrenhinde/OpenAgents](https://github.com/darrenhinde/OpenAgents) - AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built for OpenCode (5 days ago)
-- [jenslys/opencode-gemini-auth](https://github.com/jenslys/opencode-gemini-auth) - Gemini auth plugin for opencode (5 days ago)
+- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you. (1 day ago)
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (4 days ago)
+- [darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl) - AI agent framework for plan-first development workflows with approval-based execution. Multi-language support (TypeScript, Python, Go, Rust) with automatic testing, code review, and validation built for OpenCode (6 days ago)
 
 
