@@ -25,13 +25,13 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland configuration files or dotfiles - This repo is used as main repo for all my Distro-Hyprland Install Scripts. See the readme (3 days ago)
 - [brockar/ml-converter](https://github.com/brockar/ml-converter) - Python web app that converts text-formatted numbers in Excel files to numeric values, built with Flask and Pandas. (1 week ago)
-- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland configuration files or dotfiles - This repo is used as main repo for all my Distro-Hyprland Install Scripts. See the readme (1 week ago)
 - [brockar/blog](https://github.com/brockar/blog) - my personal blog (1 month ago)
 
 #### 📜 My recent blog posts
 
-- [Using Your Phone as a Webcam on Linux](https://blog.mguz.dev/p/using-your-phone-as-a-webcam-on-linux/) (3 months ago)
+- [Using Your Phone as a Webcam on Linux](https://blog.mguz.dev/p/using-your-phone-as-a-webcam-on-linux/) (4 months ago)
 - [Hibernation on Linux](https://blog.mguz.dev/p/hibernation-on-linux/) (4 months ago)
 - [Secure server setup: VPN and Reverse Proxy Config](https://blog.mguz.dev/p/secure-server-setup-vpn-and-reverse-proxy-config/) (6 months ago)
 - [Install winget on Windows LTSC](https://blog.mguz.dev/p/install-winget-on-windows-ltsc/) (8 months ago)
@@ -45,8 +45,8 @@
 
 #### ⭐ Recent Stars
 
-- [pabpereza/pabpereza](https://github.com/pabpereza/pabpereza) - Website, courses, documentation, blog and youtube video tracker. (3 days ago)
-- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you. (4 days ago)
+- [pabpereza/pabpereza](https://github.com/pabpereza/pabpereza) - Website, courses, documentation, blog and youtube video tracker. (6 days ago)
+- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you. (1 week ago)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (1 week ago)
 
 
