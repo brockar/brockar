@@ -33,7 +33,7 @@
 
 - [Using Your Phone as a Webcam on Linux](https://blog.mguz.dev/p/using-your-phone-as-a-webcam-on-linux/) (6 months ago)
 - [Hibernation on Linux](https://blog.mguz.dev/p/hibernation-on-linux/) (6 months ago)
-- [Secure server setup: VPN and Reverse Proxy Config](https://blog.mguz.dev/p/secure-server-setup-vpn-and-reverse-proxy-config/) (8 months ago)
+- [Secure server setup: VPN and Reverse Proxy Config](https://blog.mguz.dev/p/secure-server-setup-vpn-and-reverse-proxy-config/) (9 months ago)
 - [Install winget on Windows LTSC](https://blog.mguz.dev/p/install-winget-on-windows-ltsc/) (10 months ago)
 - [AppImage on Linux](https://blog.mguz.dev/p/appimage-on-linux/) (10 months ago)
 
@@ -46,7 +46,7 @@
 #### ⭐ Recent Stars
 
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (2 weeks ago)
-- [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Slimmed, cleaned and fine-tuned oh-my-opencode fork, consumes much less tokens (2 weeks ago)
+- [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Slimmed, cleaned and fine-tuned oh-my-opencode fork, consumes much less tokens (3 weeks ago)
 - [pabpereza/pabpereza](https://github.com/pabpereza/pabpereza) - Website, courses, documentation, blog and youtube video tracker. (2 months ago)
 
 
