@@ -34,7 +34,7 @@
 - [Using Your Phone as a Webcam on Linux](https://blog.mguz.dev/p/using-your-phone-as-a-webcam-on-linux/) (6 months ago)
 - [Hibernation on Linux](https://blog.mguz.dev/p/hibernation-on-linux/) (7 months ago)
 - [Secure server setup: VPN and Reverse Proxy Config](https://blog.mguz.dev/p/secure-server-setup-vpn-and-reverse-proxy-config/) (9 months ago)
-- [Install winget on Windows LTSC](https://blog.mguz.dev/p/install-winget-on-windows-ltsc/) (10 months ago)
+- [Install winget on Windows LTSC](https://blog.mguz.dev/p/install-winget-on-windows-ltsc/) (11 months ago)
 - [AppImage on Linux](https://blog.mguz.dev/p/appimage-on-linux/) (11 months ago)
 
 #### 🌱 My latest projects
