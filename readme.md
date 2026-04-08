@@ -46,7 +46,7 @@
 #### ⭐ Recent Stars
 
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (3 weeks ago)
-- [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Slimmed, cleaned and fine-tuned oh-my-opencode fork, consumes much less tokens (3 weeks ago)
+- [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Slimmed, cleaned and fine-tuned oh-my-opencode fork, consumes much less tokens (1 month ago)
 - [pabpereza/pabpereza](https://github.com/pabpereza/pabpereza) - Website, courses, documentation, blog and youtube video tracker. (2 months ago)
 
 
