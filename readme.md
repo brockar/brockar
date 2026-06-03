@@ -32,7 +32,7 @@
 #### 📜 My recent blog posts
 
 - [Using Your Phone as a Webcam on Linux](https://blog.mguz.dev/p/using-your-phone-as-a-webcam-on-linux/) (8 months ago)
-- [Hibernation on Linux](https://blog.mguz.dev/p/hibernation-on-linux/) (8 months ago)
+- [Hibernation on Linux](https://blog.mguz.dev/p/hibernation-on-linux/) (9 months ago)
 - [Secure server setup: VPN and Reverse Proxy Config](https://blog.mguz.dev/p/secure-server-setup-vpn-and-reverse-proxy-config/) (11 months ago)
 - [Install winget on Windows LTSC](https://blog.mguz.dev/p/install-winget-on-windows-ltsc/) (1 year ago)
 - [AppImage on Linux](https://blog.mguz.dev/p/appimage-on-linux/) (1 year ago)
