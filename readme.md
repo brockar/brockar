@@ -25,9 +25,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [brockar/codespaces-project](https://github.com/brockar/codespaces-project) -  (2 months ago)
-- [brockar/opencoded](https://github.com/brockar/opencoded) - Docker image for OpenCode AI — packaged with Docker Compose, web UI &#43; CLI support, and GHCR publishing workflow. Infrastructure-only repo for running OpenCode in containers. (2 months ago)
+- [brockar/opencoded](https://github.com/brockar/opencoded) - Docker image for OpenCode AI — packaged with Docker Compose, web UI &#43; CLI support, and GHCR publishing workflow. Infrastructure-only repo for running OpenCode in containers. (3 months ago)
 - [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland configuration files or dotfiles - This repo is used as main repo for all my Distro-Hyprland Install Scripts. See the readme (4 months ago)
+- [brockar/ml-converter](https://github.com/brockar/ml-converter) - Python web app that converts text-formatted numbers in Excel files to numeric values, built with Flask and Pandas. (4 months ago)
 
 #### 📜 My recent blog posts
 
@@ -39,9 +39,9 @@
 
 #### 🌱 My latest projects
 
-- [brockar/codespaces-project](https://github.com/brockar/codespaces-project) - 
 - [brockar/opencoded](https://github.com/brockar/opencoded) - Docker image for OpenCode AI — packaged with Docker Compose, web UI &#43; CLI support, and GHCR publishing workflow. Infrastructure-only repo for running OpenCode in containers.
 - [brockar/ml-converter](https://github.com/brockar/ml-converter) - Python web app that converts text-formatted numbers in Excel files to numeric values, built with Flask and Pandas.
+- [brockar/qr-code-py](https://github.com/brockar/qr-code-py) - A simple QR code creator
 
 #### ⭐ Recent Stars
 
