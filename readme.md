@@ -25,17 +25,17 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [brockar/opencoded](https://github.com/brockar/opencoded) - Docker image for OpenCode AI — packaged with Docker Compose, web UI &#43; CLI support, and GHCR publishing workflow. Infrastructure-only repo for running OpenCode in containers. (3 months ago)
+- [brockar/blog](https://github.com/brockar/blog) - my personal blog (2 days ago)
+- [brockar/opencoded](https://github.com/brockar/opencoded) - Docker image for OpenCode AI — packaged with Docker Compose, web UI &#43; CLI support, and GHCR publishing workflow. Infrastructure-only repo for running OpenCode in containers. (3 days ago)
 - [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland configuration files or dotfiles - This repo is used as main repo for all my Distro-Hyprland Install Scripts. See the readme (4 months ago)
-- [brockar/ml-converter](https://github.com/brockar/ml-converter) - Python web app that converts text-formatted numbers in Excel files to numeric values, built with Flask and Pandas. (4 months ago)
 
 #### 📜 My recent blog posts
 
+- [Dockerized OpenCode](https://blog.mguz.dev/p/dockerized-opencode/) (3 days ago)
 - [Using Your Phone as a Webcam on Linux](https://blog.mguz.dev/p/using-your-phone-as-a-webcam-on-linux/) (8 months ago)
 - [Hibernation on Linux](https://blog.mguz.dev/p/hibernation-on-linux/) (9 months ago)
 - [Secure server setup: VPN and Reverse Proxy Config](https://blog.mguz.dev/p/secure-server-setup-vpn-and-reverse-proxy-config/) (11 months ago)
 - [Install winget on Windows LTSC](https://blog.mguz.dev/p/install-winget-on-windows-ltsc/) (1 year ago)
-- [AppImage on Linux](https://blog.mguz.dev/p/appimage-on-linux/) (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -47,6 +47,6 @@
 
 - [jmtecera/obsidian-config](https://github.com/jmtecera/obsidian-config) - A simple TUI for backing up and switching Obsidian configuration presets across devices and users. (1 month ago)
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers (1 month ago)
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (2 months ago)
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (3 months ago)
 
 
