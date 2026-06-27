@@ -25,17 +25,17 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [brockar/blog](https://github.com/brockar/blog) - my personal blog (1 week ago)
+- [brockar/blog](https://github.com/brockar/blog) - my personal blog (1 day ago)
 - [brockar/opencoded](https://github.com/brockar/opencoded) - Docker image for OpenCode AI — packaged with Docker Compose, web UI &#43; CLI support, and GHCR publishing workflow. Infrastructure-only repo for running OpenCode in containers. (2 weeks ago)
 - [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland configuration files or dotfiles - This repo is used as main repo for all my Distro-Hyprland Install Scripts. See the readme (5 months ago)
 
 #### 📜 My recent blog posts
 
+- [The Quiet Exposure: Why Docker Bypasses UFW](https://blog.mguz.dev/p/the-quiet-exposure-why-docker-bypasses-ufw/) (1 day ago)
 - [Dockerized OpenCode](https://blog.mguz.dev/p/dockerized-opencode/) (2 weeks ago)
 - [Using Your Phone as a Webcam on Linux](https://blog.mguz.dev/p/using-your-phone-as-a-webcam-on-linux/) (9 months ago)
 - [Hibernation on Linux](https://blog.mguz.dev/p/hibernation-on-linux/) (9 months ago)
 - [Secure server setup: VPN and Reverse Proxy Config](https://blog.mguz.dev/p/secure-server-setup-vpn-and-reverse-proxy-config/) (11 months ago)
-- [Install winget on Windows LTSC](https://blog.mguz.dev/p/install-winget-on-windows-ltsc/) (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [jmtecera/obsidian-config](https://github.com/jmtecera/obsidian-config) - A simple TUI for backing up and switching Obsidian configuration presets across devices and users. (1 month ago)
+- [jmtecera/obsidian-config](https://github.com/jmtecera/obsidian-config) - A simple TUI for backing up and switching Obsidian configuration presets across devices and users. (2 months ago)
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers (2 months ago)
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (3 months ago)
 
