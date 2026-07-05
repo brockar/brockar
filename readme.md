@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - Create reusable templates and turn them into configurable workloads for homelabs and self-hosted infrastructure. Free and Open-Source. (3 days ago)
+- [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - Create reusable templates and turn them into configurable workloads for homelabs and self-hosted infrastructure. Free and Open-Source. (4 days ago)
 - [jmtecera/obsidian-config](https://github.com/jmtecera/obsidian-config) - A simple TUI for backing up and switching Obsidian configuration presets across devices and users. (2 months ago)
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers (2 months ago)
 
