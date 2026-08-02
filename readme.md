@@ -25,16 +25,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [brockar/blog](https://github.com/brockar/blog) - my personal blog (3 weeks ago)
-- [brockar/opencoded](https://github.com/brockar/opencoded) - Docker image for OpenCode AI — packaged with Docker Compose, web UI &#43; CLI support, and GHCR publishing workflow. Infrastructure-only repo for running OpenCode in containers. (1 month ago)
-- [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots) - Hyprland configuration files or dotfiles - This repo is used as main repo for all my Distro-Hyprland Install Scripts. See the readme (5 months ago)
+- [brockar/opencoded](https://github.com/brockar/opencoded) - Docker image for OpenCode AI — packaged with Docker Compose, web UI &#43; CLI support, and GHCR publishing workflow. Infrastructure-only repo for running OpenCode in containers. (6 days ago)
+- [LinuxBeginnings/Hyprland-Dots](https://github.com/LinuxBeginnings/Hyprland-Dots) - Hyprland &#34;dotfiles&#34;  to install a well rounded Hyprland configuration  (1 month ago)
+- [brockar/blog](https://github.com/brockar/blog) - my personal blog (1 month ago)
 
 #### 📜 My recent blog posts
 
-- [The Quiet Exposure: Why Docker Bypasses UFW](https://blog.mguz.dev/p/the-quiet-exposure-why-docker-bypasses-ufw/) (3 weeks ago)
+- [The Quiet Exposure: Why Docker Bypasses UFW](https://blog.mguz.dev/p/the-quiet-exposure-why-docker-bypasses-ufw/) (1 month ago)
 - [Dockerized OpenCode](https://blog.mguz.dev/p/dockerized-opencode/) (1 month ago)
-- [Using Your Phone as a Webcam on Linux](https://blog.mguz.dev/p/using-your-phone-as-a-webcam-on-linux/) (9 months ago)
-- [Hibernation on Linux](https://blog.mguz.dev/p/hibernation-on-linux/) (10 months ago)
+- [Using Your Phone as a Webcam on Linux](https://blog.mguz.dev/p/using-your-phone-as-a-webcam-on-linux/) (10 months ago)
+- [Hibernation on Linux](https://blog.mguz.dev/p/hibernation-on-linux/) (11 months ago)
 - [Secure server setup: VPN and Reverse Proxy Config](https://blog.mguz.dev/p/secure-server-setup-vpn-and-reverse-proxy-config/) (1 year ago)
 
 #### 🌱 My latest projects
@@ -45,8 +45,8 @@
 
 #### ⭐ Recent Stars
 
-- [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - Create reusable templates and turn them into configurable workloads for homelabs and self-hosted infrastructure. Free and Open-Source. (2 weeks ago)
-- [jmtecera/obsidian-config](https://github.com/jmtecera/obsidian-config) - A simple TUI for backing up and switching Obsidian configuration presets across devices and users. (2 months ago)
-- [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers (2 months ago)
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (1 week ago)
+- [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - Create reusable templates and turn them into configurable workloads for homelabs and self-hosted infrastructure. Free and Open-Source. (1 month ago)
+- [jmtecera/obsidian-config](https://github.com/jmtecera/obsidian-config) - A simple TUI for backing up and switching Obsidian configuration presets across devices and users. (3 months ago)
 
 
