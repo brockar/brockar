@@ -32,7 +32,7 @@
 #### 📜 My recent blog posts
 
 - [The Quiet Exposure: Why Docker Bypasses UFW](https://blog.mguz.dev/p/the-quiet-exposure-why-docker-bypasses-ufw/) (1 month ago)
-- [Dockerized OpenCode](https://blog.mguz.dev/p/dockerized-opencode/) (1 month ago)
+- [Dockerized OpenCode](https://blog.mguz.dev/p/dockerized-opencode/) (2 months ago)
 - [Using Your Phone as a Webcam on Linux](https://blog.mguz.dev/p/using-your-phone-as-a-webcam-on-linux/) (10 months ago)
 - [Hibernation on Linux](https://blog.mguz.dev/p/hibernation-on-linux/) (11 months ago)
 - [Secure server setup: VPN and Reverse Proxy Config](https://blog.mguz.dev/p/secure-server-setup-vpn-and-reverse-proxy-config/) (1 year ago)
@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces (6 days ago)
+- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces (1 week ago)
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (2 weeks ago)
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - Create reusable templates and turn them into configurable workloads for homelabs and self-hosted infrastructure. Free and Open-Source. (1 month ago)
 
