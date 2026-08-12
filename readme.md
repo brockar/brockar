@@ -25,7 +25,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [brockar/opencoded](https://github.com/brockar/opencoded) - Docker image for OpenCode AI — packaged with Docker Compose, web UI &#43; CLI support, and GHCR publishing workflow. Infrastructure-only repo for running OpenCode in containers. (1 week ago)
+- [brockar/opencoded](https://github.com/brockar/opencoded) - Docker image for OpenCode AI — packaged with Docker Compose, web UI &#43; CLI support, and GHCR publishing workflow. Infrastructure-only repo for running OpenCode in containers. (2 weeks ago)
 - [LinuxBeginnings/Hyprland-Dots](https://github.com/LinuxBeginnings/Hyprland-Dots) - Hyprland &#34;dotfiles&#34;  to install a well rounded Hyprland configuration  (1 month ago)
 - [brockar/blog](https://github.com/brockar/blog) - my personal blog (1 month ago)
 
