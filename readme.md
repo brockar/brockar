@@ -5,7 +5,7 @@
 - 🎓 Computer Engineering student focused on **DevOps, Cloud & Linux Infrastructure**
 - 🧰 **Docker · Linux · CI/CD · AWS · Kubernetes**
 - 🐍 I also work with **Python** for automation and application development
-- ⌨️ I love **keyboards** and **3d printers**
+- ⌨️ I love **keyboards** and **3D printers**
 
 ## Skills  
   
@@ -47,5 +47,5 @@
 #### ⭐ Recent Stars
 
 - [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces (1 week ago)
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (2 weeks ago)
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (3 weeks ago)
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - Create reusable templates and turn them into configurable workloads for homelabs and self-hosted infrastructure. Free and Open-Source. (1 month ago)
