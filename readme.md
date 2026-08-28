@@ -26,13 +26,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [brockar/opencoded](https://github.com/brockar/opencoded) - Docker image for OpenCode AI — packaged with Docker Compose, web UI &#43; CLI support, and GHCR publishing workflow. Infrastructure-only repo for running OpenCode in containers. (3 weeks ago)
+- [brockar/opencoded](https://github.com/brockar/opencoded) - Docker image for OpenCode AI — packaged with Docker Compose, web UI &#43; CLI support, and GHCR publishing workflow. Infrastructure-only repo for running OpenCode in containers. (1 month ago)
 - [LinuxBeginnings/Hyprland-Dots](https://github.com/LinuxBeginnings/Hyprland-Dots) - Hyprland &#34;dotfiles&#34;  to install a well rounded Hyprland configuration  (1 month ago)
-- [brockar/blog](https://github.com/brockar/blog) - my personal blog (1 month ago)
+- [brockar/blog](https://github.com/brockar/blog) - my personal blog (2 months ago)
 
 #### 📜 My recent blog posts
 
-- [The Quiet Exposure: Why Docker Bypasses UFW](https://blog.mguz.dev/p/the-quiet-exposure-why-docker-bypasses-ufw/) (1 month ago)
+- [The Quiet Exposure: Why Docker Bypasses UFW](https://blog.mguz.dev/p/the-quiet-exposure-why-docker-bypasses-ufw/) (2 months ago)
 - [Dockerized OpenCode](https://blog.mguz.dev/p/dockerized-opencode/) (2 months ago)
 - [Using Your Phone as a Webcam on Linux](https://blog.mguz.dev/p/using-your-phone-as-a-webcam-on-linux/) (11 months ago)
 - [Hibernation on Linux](https://blog.mguz.dev/p/hibernation-on-linux/) (11 months ago)
@@ -46,6 +46,6 @@
 
 #### ⭐ Recent Stars
 
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (today)
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML &#43; SVG. No shadows. No Mermaid slop. (3 days ago)
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (5 days ago)
 - [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces (3 weeks ago)
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (1 month ago)
