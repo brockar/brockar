@@ -13,7 +13,6 @@
   <img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt = "python" />
   <img src = "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt = "c++" />
   <img src = "https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt = "bash" />
-  <img src = "https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=red" alt = "Rust" />
 
 - <h3> tools </h3>
     <img src = "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt = "git" />
