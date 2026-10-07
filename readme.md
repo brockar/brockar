@@ -45,6 +45,6 @@
 
 #### ⭐ Recent Stars
 
-- [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP. (5 days ago)
-- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (2 weeks ago)
-- [jmtecera/obsidian-config](https://github.com/jmtecera/obsidian-config) - A simple TUI for backing up and switching Obsidian configuration presets across devices and users. (4 weeks ago)
+- [jmtecera/excaliapp](https://github.com/jmtecera/excaliapp) - Shared rooms for Excalidraw boards: short room codes, live presence, optional PIN access and a synced Pomodoro timer. SolidJS &#43; Supabase &#43; Vercel. (today)
+- [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP. (1 week ago)
+- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (3 weeks ago)
