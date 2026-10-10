@@ -32,7 +32,7 @@
 #### 📜 My recent blog posts
 
 - [The Quiet Exposure: Why Docker Bypasses UFW](https://blog.mguz.dev/p/the-quiet-exposure-why-docker-bypasses-ufw/) (3 months ago)
-- [Dockerized OpenCode](https://blog.mguz.dev/p/dockerized-opencode/) (3 months ago)
+- [Dockerized OpenCode](https://blog.mguz.dev/p/dockerized-opencode/) (4 months ago)
 - [Using Your Phone as a Webcam on Linux](https://blog.mguz.dev/p/using-your-phone-as-a-webcam-on-linux/) (1 year ago)
 - [Hibernation on Linux](https://blog.mguz.dev/p/hibernation-on-linux/) (1 year ago)
 - [Secure server setup: VPN and Reverse Proxy Config](https://blog.mguz.dev/p/secure-server-setup-vpn-and-reverse-proxy-config/) (1 year ago)
@@ -45,6 +45,6 @@
 
 #### ⭐ Recent Stars
 
-- [jmtecera/excaliapp](https://github.com/jmtecera/excaliapp) - Shared rooms for Excalidraw boards: short room codes, live presence, optional PIN access and a synced Pomodoro timer. SolidJS &#43; Supabase &#43; Vercel. (today)
+- [jmtecera/excaliapp](https://github.com/jmtecera/excaliapp) - Shared rooms for Excalidraw boards: short room codes, live presence, optional PIN access and a synced Pomodoro timer. SolidJS &#43; Supabase &#43; Vercel. (3 days ago)
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP. (1 week ago)
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (3 weeks ago)
