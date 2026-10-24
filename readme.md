@@ -27,11 +27,11 @@
 
 - [LinuxBeginnings/Hyprland-Dots](https://github.com/LinuxBeginnings/Hyprland-Dots) - Hyprland &#34;dotfiles&#34;  to install a well rounded Hyprland configuration  (2 months ago)
 - [brockar/opencoded](https://github.com/brockar/opencoded) - Docker image for OpenCode AI — packaged with Docker Compose, web UI &#43; CLI support, and GHCR publishing workflow. Infrastructure-only repo for running OpenCode in containers. (2 months ago)
-- [brockar/blog](https://github.com/brockar/blog) - my personal blog (3 months ago)
+- [brockar/blog](https://github.com/brockar/blog) - my personal blog (4 months ago)
 
 #### 📜 My recent blog posts
 
-- [The Quiet Exposure: Why Docker Bypasses UFW](https://blog.mguz.dev/p/the-quiet-exposure-why-docker-bypasses-ufw/) (3 months ago)
+- [The Quiet Exposure: Why Docker Bypasses UFW](https://blog.mguz.dev/p/the-quiet-exposure-why-docker-bypasses-ufw/) (4 months ago)
 - [Dockerized OpenCode](https://blog.mguz.dev/p/dockerized-opencode/) (4 months ago)
 - [Using Your Phone as a Webcam on Linux](https://blog.mguz.dev/p/using-your-phone-as-a-webcam-on-linux/) (1 year ago)
 - [Hibernation on Linux](https://blog.mguz.dev/p/hibernation-on-linux/) (1 year ago)
