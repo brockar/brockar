@@ -25,8 +25,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LinuxBeginnings/Hyprland-Dots](https://github.com/LinuxBeginnings/Hyprland-Dots) - Hyprland &#34;dotfiles&#34;  to install a well rounded Hyprland configuration  (2 months ago)
-- [brockar/opencoded](https://github.com/brockar/opencoded) - Docker image for OpenCode AI — packaged with Docker Compose, web UI &#43; CLI support, and GHCR publishing workflow. Infrastructure-only repo for running OpenCode in containers. (2 months ago)
+- [LinuxBeginnings/Hyprland-Dots](https://github.com/LinuxBeginnings/Hyprland-Dots) - Hyprland &#34;dotfiles&#34;  to install a well rounded Hyprland configuration  (3 months ago)
+- [brockar/opencoded](https://github.com/brockar/opencoded) - Docker image for OpenCode AI — packaged with Docker Compose, web UI &#43; CLI support, and GHCR publishing workflow. Infrastructure-only repo for running OpenCode in containers. (3 months ago)
 - [brockar/blog](https://github.com/brockar/blog) - my personal blog (4 months ago)
 
 #### 📜 My recent blog posts
@@ -45,6 +45,6 @@
 
 #### ⭐ Recent Stars
 
-- [jmtecera/excaliapp](https://github.com/jmtecera/excaliapp) - Shared rooms for Excalidraw boards: short room codes, live presence, optional PIN access and a synced Pomodoro timer. SolidJS &#43; Supabase &#43; Vercel. (2 weeks ago)
-- [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP. (3 weeks ago)
+- [jmtecera/excaliapp](https://github.com/jmtecera/excaliapp) - Shared rooms for Excalidraw boards: short room codes, live presence, optional PIN access and a synced Pomodoro timer. SolidJS &#43; Supabase &#43; Vercel. (3 weeks ago)
+- [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP. (4 weeks ago)
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (1 month ago)
