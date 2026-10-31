@@ -46,5 +46,5 @@
 #### ⭐ Recent Stars
 
 - [jmtecera/excaliapp](https://github.com/jmtecera/excaliapp) - Shared rooms for Excalidraw boards: short room codes, live presence, optional PIN access and a synced Pomodoro timer. SolidJS &#43; Supabase &#43; Vercel. (3 weeks ago)
-- [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP. (4 weeks ago)
+- [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP. (1 month ago)
 - [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings (1 month ago)
